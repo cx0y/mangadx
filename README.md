@@ -1,2 +1,5 @@
-# mangadex_downloader
-a simple mangadex downloader   
+# Mangadex Downloader
+
+a simple mangadex Downloader
+
+Status: Developing
