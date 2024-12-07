@@ -23,4 +23,7 @@ example: `mangadx -u "https://mangadex.org/chapter/4278484c-d3aa-4b5a-9161-a5229
 ```bash
 mangadx.py -h 
 ```
+![](https://youtu.be/b_c9wiPj3Q0?si=Qx_pMCTb9wbcsR61)
 
+### Video
+[![alt text](https://img.youtube.com/vi/b_c9wiPj3Q0/0.jpg)](https://www.youtube.com/watch?v=b_c9wiPj3Q0)
