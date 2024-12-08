@@ -59,7 +59,7 @@ class dex:
 
 if __name__ == "__main__":
     down = dex()
-    c = down.getId("True Love Lyricism")
+    c = down.getId("GTO")
     d = down.chapters()
     print(c, d)
     #print(sys.argv)
